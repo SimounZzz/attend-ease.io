@@ -1,10 +1,14 @@
 <img src="https://github.com/SimounZzz/attend-ease.io/assets/160508563/ce900e31-3123-4c26-9bda-ee175b21a004" width="100" height="100"> 
 
-[TOCM]
-[TOC]
+
 
 # AttendEase
 > About
+
+
+[TOCM]
+
+[TOC]
 
 AttendEase is a system developed to provide a solution to the rigorous 
 task of filling up forms, a way to automatically input necessary 

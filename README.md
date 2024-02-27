@@ -5,11 +5,6 @@
 # AttendEase
 > About
 
-
-[TOCM]
-
-[TOC]
-
 AttendEase is a system developed to provide a solution to the rigorous 
 task of filling up forms, a way to automatically input necessary 
 information within a second fast, contactless, and efficiently. A 

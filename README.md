@@ -11,6 +11,48 @@ attendance and a device that will replace the manual input of
 information. The system allows users to input necessary 
 information for different classes and areas using a smart card.
 
-## Introduction Video
-https://github.com/SimounZzz/attend-ease.io/assets/160508563/2489b378-36a4-4cef-8fcf-118653b1f977
+### Introduction Video
+https://github.com/SimounZzz/attend-ease.io/assets/160508563/86d97857-fa55-4197-8e5f-428a97e304d9
+
+
+### Web Application
+A user-friendly Web System has been developed to accompany the prototype. In this section, we'll explore the system's various features and intuitive user interface.
+
+
+### Hardware
+
+### Kinds of Users
+ <img src="https://github.com/SimounZzz/attend-ease.io/assets/160508563/6b03a248-62e6-4c45-bbca-84a18a778d2a" width="350" height="500"> <img src="https://github.com/SimounZzz/attend-ease.io/assets/160508563/c328e869-d61e-48cb-9a9d-43b2fa3f1908" width="350" height="500"> 
+
+<details open>
+    
+  <summary><b>Student</b></summary>
+      Features
+  
+  -
+</details>
+
+<details open>
+    
+  <summary><b>Staff</b></summary>
+      Features
+  
+  -
+</details>
+
+<details open>
+    
+  <summary><b>Faculty</b></summary>
+      Features
+  
+  -
+</details>
+
+<details open>
+    
+  <summary><b>Administrator</b></summary>
+      Features
+  
+  -
+</details>
 

@@ -28,24 +28,22 @@ A user-friendly Web System has been developed to accompany the prototype. In thi
 [Web Application Manual](https://docs.google.com/document/d/1EutwxV5m7KXjRO9iWfdW8_rOiwVjG1zGv80u4aEFHTY/edit?usp=sharing)
 <details open>
     
-  <summary><b>Student</b></summary>
-      Features
+  <summary><b>Student Features</b></summary>
+     
+  -
+</details>
+
+<details open>
+    
+  <summary><b>Staff Features</b></summary>
   
   -
 </details>
 
 <details open>
     
-  <summary><b>Staff</b></summary>
-      Features
-  
-  -
-</details>
-
-<details open>
-    
-  <summary><b>Faculty</b></summary>
-      Features
+  <summary><b>Faculty Features</b></summary>
+      
   
   -
 </details>
@@ -58,24 +56,23 @@ A user-friendly Web System has been developed to accompany the prototype. In thi
 
 <details open>
     
-  <summary><b>Student</b></summary>
-      Features
+  <summary><b>Student Features</b></summary>
+  
   
   -
 </details>
 
 <details open>
     
-  <summary><b>Staff</b></summary>
-      Features
+  <summary><b>Staff Features</b></summary>
+      
   
   -
 </details>
 
 <details open>
     
-  <summary><b>Faculty</b></summary>
-      Features
+  <summary><b>Faculty Features</b></summary>
   
   -
 </details>

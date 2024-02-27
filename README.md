@@ -1,5 +1,8 @@
 <img src="https://github.com/SimounZzz/attend-ease.io/assets/160508563/ce900e31-3123-4c26-9bda-ee175b21a004" width="100" height="100"> 
 
+[TOCM]
+[TOC]
+
 # AttendEase
 > About
 
@@ -17,6 +20,30 @@ https://github.com/SimounZzz/attend-ease.io/assets/160508563/86d97857-fa55-4197-
 
 ### Web Application
 A user-friendly Web System has been developed to accompany the prototype. In this section, we'll explore the system's various features and intuitive user interface.
+
+<details open>
+    
+  <summary><b>Student</b></summary>
+      Features
+  
+  -
+</details>
+
+<details open>
+    
+  <summary><b>Staff</b></summary>
+      Features
+  
+  -
+</details>
+
+<details open>
+    
+  <summary><b>Faculty</b></summary>
+      Features
+  
+  -
+</details>
 
 
 ### Hardware

@@ -25,6 +25,7 @@ https://github.com/SimounZzz/attend-ease.io/assets/160508563/86d97857-fa55-4197-
 ### Web Application
 A user-friendly Web System has been developed to accompany the prototype. In this section, we'll explore the system's various features and intuitive user interface.
 
+[Web Application Manual](https://docs.google.com/document/d/1EutwxV5m7KXjRO9iWfdW8_rOiwVjG1zGv80u4aEFHTY/edit?usp=sharing)
 <details open>
     
   <summary><b>Student</b></summary>

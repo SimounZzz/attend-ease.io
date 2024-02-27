@@ -11,5 +11,6 @@ attendance and a device that will replace the manual input of
 information. The system allows users to input necessary 
 information for different classes and areas using a smart card.
 
-
+## Introduction Video
+https://github.com/SimounZzz/attend-ease.io/assets/160508563/2489b378-36a4-4cef-8fcf-118653b1f977
 

@@ -65,3 +65,10 @@ A user-friendly Web System has been developed to accompany the prototype. In thi
     <img src="https://github.com/SimounZzz/attend-ease.io/assets/160508563/ac997d00-c312-43c2-a674-318be48d9654 width="250" height="400"> 
     <img src="https://github.com/SimounZzz/attend-ease.io/assets/160508563/e25ee0cc-45bc-4107-814c-85985ebdfb29 width="250" height="400"> 
 </p>
+
+### NFC Card
+
+<p align="left">
+    <img src="https://github.com/SimounZzz/attend-ease.io/assets/160508563/2c5f6b9d-27fd-4e62-a7c6-e4c637adb783 width="125" height="200">  
+</p>
+

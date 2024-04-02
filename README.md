@@ -25,6 +25,9 @@ A user-friendly Web System has been developed to accompany the prototype. In thi
 
 <i>Link to the Web App: </i>[Web Application Manual](https://docs.google.com/document/d/1EutwxV5m7KXjRO9iWfdW8_rOiwVjG1zGv80u4aEFHTY/edit?usp=sharing)
 
+## Automation Test Case Sample
+
+
 ## Features
 
 | Feature  | Description  | User Access |

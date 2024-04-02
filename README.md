@@ -26,7 +26,7 @@ A user-friendly Web System has been developed to accompany the prototype. In thi
 <i>Link to the Web App: </i>[Web Application Manual](https://docs.google.com/document/d/1EutwxV5m7KXjRO9iWfdW8_rOiwVjG1zGv80u4aEFHTY/edit?usp=sharing)
 
 ## Automation Test Case Sample
-<i>Link to the Java Selenium Test Script Sample: </i>[Selenium Code]([https://docs.google.com/document/d/1EutwxV5m7KXjRO9iWfdW8_rOiwVjG1zGv80u4aEFHTY/edit?usp=sharing](https://docs.google.com/document/d/1OjcBDWAtRhAt7rvYGYjjg8naTF147cJPbuJ8RW5WFZc/edit?usp=sharing))
+<i>Link to the Java Selenium Test Script Sample: </i>[Selenium Code](https://docs.google.com/document/d/1OjcBDWAtRhAt7rvYGYjjg8naTF147cJPbuJ8RW5WFZc/edit?usp=sharing)
 
 ## Features
 
